@@ -22,14 +22,14 @@ global.limitCount = 70 //70 Dah Pas Banh
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
-global.namabot = 'Hiruko Kagetane' //Ganti Jadi Nama Botmu
-global.packname = 'Hiruko Kagetane' //Sticker Weem
-global.author = 'By Ryuuka Team' //Sticker Weem
+global.namaowner = 'GilzzOFC' //Ganti Jadi Namamu
+global.owner = ['6281242056195','6281241056195'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6281241056195' //Owner Utama Istilahnya
+global.namabot = 'Ziro-MD' //Ganti Jadi Nama Botmu
+global.packname = 'ZiroBotz' //Sticker Weem
+global.author = 'By Gilzz' //Sticker Weem
 global.webme = 'https://api-ryubotz.herokuapp.com' //Ganti Sama Web Mu
-global.linkgroup = 'https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV' //Ganti Sama Link Gc Mu
+global.linkgroup = 'https://chat.whatsapp.com/EtC9mrrBeus0Xs7I3zEVeS' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
 global.youtube = 'https://youtube.com/c/RyuukaBotz' //Ganti Sama Link Yt Mu
 global.github = 'https://github.com/R-TEAM94' //Ganti Sama Link Github Mu
@@ -61,7 +61,7 @@ limitEnd: 'Limit Anda Habis\n\n📝 Note : Limit Akan Di Reset Setiap Jam 21:00'
 //===> EDIT SESUAI KEMAUANMU
 global.mess = {
 admin: '*LU ADMIN? 🤨*',
-botAdmin: '*BOT BUKAN ADMIN 😔*',
+botAdmin: '*BOT BUKAN ADMIN 😑*',
 owner: '*LU BUKAN OWNER GW 😠*',
 group: '*KHUSUS GROUP 😏*',
 private: '*KHUSUS PRIVATE CHAT*',
